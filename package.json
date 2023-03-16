@@ -1,0 +1,23 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ab-noori/Testing-with-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ab-noori/Testing-with-Jest/issues"
+  },
+  "homepage": "https://github.com/ab-noori/Testing-with-Jest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
